@@ -23,6 +23,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#env files
+.env
+
 # local env files
 .env.local
 .env.development.local
@@ -30,3 +33,5 @@ yarn-error.log*
 .env.production.local
 
 .vercel
+
+.next
